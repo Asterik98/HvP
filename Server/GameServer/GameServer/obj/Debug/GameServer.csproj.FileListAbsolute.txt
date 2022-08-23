@@ -1,0 +1,10 @@
+D:\HvP\Server\GameServer\GameServer\bin\Debug\GameServer.exe.config
+D:\HvP\Server\GameServer\GameServer\bin\Debug\GameServer.exe
+D:\HvP\Server\GameServer\GameServer\bin\Debug\GameServer.pdb
+D:\HvP\Server\GameServer\GameServer\obj\Debug\GameServer.csprojAssemblyReference.cache
+D:\HvP\Server\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+D:\HvP\Server\GameServer\GameServer\obj\Debug\GameServer.exe
+D:\HvP\Server\GameServer\GameServer\obj\Debug\GameServer.pdb
+D:\HvP\Server\GameServer\GameServer\bin\Debug\System.Numerics.Vectors.dll
+D:\HvP\Server\GameServer\GameServer\bin\Debug\System.Numerics.Vectors.xml
+D:\HvP\Server\GameServer\GameServer\obj\Debug\GameServer.csproj.CopyComplete

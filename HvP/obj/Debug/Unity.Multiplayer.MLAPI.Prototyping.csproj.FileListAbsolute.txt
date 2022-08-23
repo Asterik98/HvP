@@ -1,0 +1,2 @@
+D:\HvP\HvP\obj\Debug\Unity.Multiplayer.MLAPI.Prototyping.csproj.CoreCompileInputs.cache
+D:\HvP\HvP\obj\Debug\Unity.Multiplayer.MLAPI.Prototyping.csprojAssemblyReference.cache

@@ -1,0 +1,2 @@
+D:\HvP\HvP\obj\Debug\ENET MLAPI Transport.csproj.CoreCompileInputs.cache
+D:\HvP\HvP\obj\Debug\ENET MLAPI Transport.csprojAssemblyReference.cache
